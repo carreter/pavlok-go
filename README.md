@@ -1,4 +1,4 @@
-# Pavlok CLI and Go API wrapper
+# Pavlok CLI and API wrapper written in Go
 This package provides a simple CLI and Go API wrapper for the [Pavlok](https://shop.pavlok.com/) smartwatch's API.
 
 ## CLI Installation
