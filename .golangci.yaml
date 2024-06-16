@@ -1,0 +1,12 @@
+linters:
+  enable:
+    - godot
+    - stylecheck
+    - gofmt
+
+linters-settings:
+  stylecheck:
+    checks: ["all"]
+
+issues:
+  exclude-use-default: false
